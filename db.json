@@ -1,61 +1,6 @@
 {
     "notifications":  [
-      {
-        "id": "94f373f7-0838-5f21-b9b9-bc2ad5b8fcbd",
-        "created_on": "2015-01-27T19:40:36.719Z",
-        "created_by": {
-          "id": 2,
-          "email": "jonathan.discount@hivestreaming.com",
-          "name": "Jonathan"
-        },
-        "organization": {
-          "url": "https://admin-test.hivestreaming.com/organizations/38/select",
-          "value": "HiveCloudLab (Hive)",
-          "partner_name": "Hive Deployment",
-          "status": "active",
-          "main_customer": true,
-          "created_at": "2015-01-27T19:40:36.719Z",
-          "description": "HiveCloudLab",
-          "license": {
-            "id": 2,
-            "key": "0cf7ae-368da2-b306d4-39cac3",
-            "product": "JavaWebRTCStats"
-          },
-          "id": 38,
-          "name": "HiveCloudLab",
-          "partner_id": 9001,
-          "customer_id": "15",
-          "customer": "HiveCloudLab",
-          "hasPremiumVI": true,
-          "hasEngagementReport": false
-        },
-        "event_key": "organization.create",
-        "category": "Customer Creation",
-        "params": {
-          "organization": {
-            "url": "https://admin-test.hivestreaming.com/organizations/38/select",
-            "value": "HiveCloudLab (Hive)",
-            "partner_name": "Hive Deployment",
-            "status": "active",
-            "main_customer": true,
-            "created_at": "2015-01-27T19:40:36.719Z",
-            "description": "HiveCloudLab",
-            "license": {
-              "id": 2,
-              "key": "0cf7ae-368da2-b306d4-39cac3",
-              "product": "JavaWebRTCStats"
-            },
-            "id": 38,
-            "name": "HiveCloudLab",
-            "partner_id": 9001,
-            "customer_id": "15",
-            "customer": "HiveCloudLab",
-            "hasPremiumVI": true,
-            "hasEngagementReport": false
-          }
-        },
-        "isRead": false
-      },
+    
       {
         "id": "40e48ec8-01c7-5812-9a46-6ed0adab9d01",
         "created_on": "2015-01-27T19:40:36.719Z",
